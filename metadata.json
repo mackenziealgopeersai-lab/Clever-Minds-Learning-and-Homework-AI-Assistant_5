@@ -1,0 +1,8 @@
+{
+  "name": "Clever Minds: Learning and Homework AI Assistant",
+  "description": "An AI-powered learning companion for students of all ages, offering personalized homework help and interactive subject exploration across all disciplines.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
